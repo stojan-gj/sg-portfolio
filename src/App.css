@@ -1,0 +1,221 @@
+/* App CSS*/
+.app-header {
+  background: #232526; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #414345,
+    #232526
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #414345,
+    #232526
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+/* Landing CSS */
+.landing {
+  width: 100%;
+  margin: auto;
+}
+
+.landing-grid {
+  margin: auto;
+  padding-top: 10em;
+  text-align: center;
+}
+
+.landing-avatar {
+  height: 300px;
+  border-radius: 60%;
+}
+
+.landing-border {
+  background: black;
+  opacity: 0.5;
+  width: 75%;
+  margin: auto;
+  border-radius: 20px;
+}
+
+.landing-border h2 {
+  color: white;
+}
+
+.landing-border h4 {
+  color: white;
+}
+
+.landing-border hr {
+  width: 50%;
+  margin: auto;
+  border-top: 5px dotted white;
+}
+
+.landing-social-links {
+  display: flex;
+  width: 50%;
+  justify-content: space-between;
+  margin: auto;
+}
+
+.landing-social-links i {
+  color: white;
+  font-size: 4em;
+  padding-left: 4em;
+}
+
+/*  Resume CSS */
+.resume {
+  width: 80%;
+  margin: auto;
+}
+
+.resume-left {
+  width: 100%;
+  background: #232526;
+  margin: auto;
+  text-align: center;
+  height: 100%;
+  border-radius: 4rem;
+}
+
+.resume-right {
+  width: 100%;
+  background: #232526;
+  margin: auto;
+  text-align: center;
+  height: 100%;
+  border-radius: 4rem;
+}
+
+.resume-left h2 {
+  font-family: "Shadows Into Light", cursive;
+  color: white;
+}
+
+.resume-left hr {
+  margin: auto;
+  border-top: 5px white dotted;
+  width: 70%;
+}
+
+.resume-left p {
+  font-family: "Shadows Into Light", cursive;
+  font-size: 1.5em;
+  font-weight: bold;
+  color: white;
+}
+
+.resume-left img {
+  padding-top: 2em;
+  height: 250px;
+  border-radius: 60%;
+}
+
+.resume-right h2 {
+  font-family: "Shadows Into Light", cursive;
+  font-weight: bold;
+  color: white;
+  margin-top: 0px;
+}
+
+/* Education CSS*/
+.education h2 {
+  font-family: "Shadows Into Light", cursive;
+  font-weight: bold;
+  color: white;
+}
+.education h4 {
+  font-family: "Shadows Into Light", cursive;
+  font-weight: bold;
+  color: white;
+}
+
+.education p {
+  font-family: "Shadows Into Light", cursive;
+  font-size: 1.5em;
+  font-weight: bold;
+  color: white;
+}
+
+/* Experience CSS*/
+.experience h2 {
+  font-family: "Shadows Into Light", cursive;
+  font-weight: bold;
+  color: white;
+}
+.experience h4 {
+  font-family: "Shadows Into Light", cursive;
+  font-weight: bold;
+  color: white;
+}
+
+.experience p {
+  font-family: "Shadows Into Light", cursive;
+  font-size: 1.5em;
+  font-weight: bold;
+  color: white;
+}
+
+/* Skill CSS*/
+.skill h4 {
+  font-family: "Shadows Into Light", cursive;
+  font-size: 1.5em;
+  font-weight: bold;
+  color: white;
+}
+
+/* Projects CSS*/
+.project-grid {
+  display: flex;
+  justify-content: space-between;
+  margin: auto;
+  width: 80%;
+}
+
+/* Contact CSS*/
+.contact-grid {
+  background: #232526;
+  width: 80%;
+  margin: auto;
+  height: 100%;
+  text-align: center;
+  margin-top: 2rem;
+  border-radius: 10rem;
+}
+
+.contact-grid h2 {
+  font-family: "Shadows Into Light", cursive;
+  color: white;
+}
+
+.contact-grid h4 {
+  font-family: "Shadows Into Light", cursive;
+  font-weight: bold;
+  color: white;
+}
+
+.contact-grid img {
+  border-radius: 60%;
+  color: white;
+}
+
+.contact-grid hr {
+  border-top: 5px white dotted;
+  width: 70%;
+  margin: auto;
+  padding-top: 2rem;
+}
+
+.contact-list {
+  font-family: "Shadows Into Light", cursive;
+  font-weight: bold;
+  margin: auto;
+}
+
+.contact-list i {
+  font-size: 40px;
+  padding-right: 2rem;
+  color: white;
+}

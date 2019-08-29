@@ -1,0 +1,165 @@
+{
+  "person": {
+    "fName": "Stojan",
+    "lName": "Gjeorgiov",
+    "age": 30,
+    "address": "Car Samoil 20 - Kocani",
+    "phone": "+38978 830 644",
+    "email": "stojan.gjeorgiov@gmail.com",
+    "linkedIn": "https://www.linkedin.com/in/stojan-gjeorgiov-73a88764",
+    "img": "https://media.licdn.com/dms/image/C4E03AQGAxp1ZOI2euA/profile-displayphoto-shrink_200_200/0?e=1571270400&v=beta&t=qyzHRidChY63L29REErShtSCcL9rCVAl1qrdsLI0Crg",
+    "aboutMe": "I am a punctual and motivated individual who is able to work in a busy environment and produce high standards of work. I am an excellent team worker and am able to take instructions from all levels and build up good working relationships with all colleagues. I am flexible, reliable and possess excellent time keeping skills.",
+    "contactDesc": "Thank you for taking time to visit my portfolio and really appreciate being considered for the position. If you have any additional questions or require further clarification, please, do not hesitate to call me or send me an email."
+  },
+  "education": [
+    {
+      "id": 1,
+      "startYear": 2012,
+      "endYear": 2013,
+      "schoolName": "Seavus Education Center",
+      "degree": "Certificate of course completion, Java Spring",
+      "majorSubjects": "Major Subjects: JavaSE | Hibernet | Spring | PostgreSQL"
+    },
+    {
+      "id": 2,
+      "startYear": 2007,
+      "endYear": 2011,
+      "schoolName": "Goce Delcev",
+      "degree": "Bachelor degree of Computer Science",
+      "majorSubjects": "Major Subjects: Object Orinted Programming | Software Engineering | PHP | C# | MySQL"
+    }
+  ],
+  "experience": [
+    {
+      "id": 1,
+      "startYear": 2016,
+      "endYear": "Present",
+      "workPlace": "Dyna SDC",
+      "workPosition": "Senior ABAP Developer",
+      "jobDesc": [
+        {
+          "id": 1,
+          "jobText": "Work with business Analyst to help create all documentation."
+        },
+        {
+          "id": 2,
+          "jobText": "Provide training to other developers as well as lead workshops and knowledge transfer."
+        },
+        {
+          "id": 3,
+          "jobText": "Manage own workload, accurately estimate effort for tasks."
+        },
+        {
+          "id": 4,
+          "jobText": "Provides technical expertise to the development team and business analysts."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "startYear": 2014,
+      "endYear": 2016,
+      "workPlace": "Dyna SDC",
+      "workPosition": "ABAP Developer",
+      "jobDesc": [
+        {
+          "id": 5,
+          "jobText": "Develop, test, and document SAP Reports, Interfaces, Conversions, Enhancements and Forms."
+        },
+        {
+          "id": 6,
+          "jobText": "Working closely with the SAP Basis team to monitor, test and tune application components for optimized performance and integration."
+        },
+        {
+          "id": 7,
+          "jobText": "Recognize the critical elements of complex application problems, develop and evaluate data, determine solutions, and make logical recommendations."
+        },
+        {
+          "id": 8,
+          "jobText": "Work with the team to develop and test functionality that meets documented design."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "startYear": 2013,
+      "endYear": 2014,
+      "workPlace": "Seavus",
+      "workPosition": "Java Intern",
+      "jobDesc": [
+        {
+          "id": 9,
+          "jobText": "Experience in Eclipse."
+        },
+        {
+          "id": 10,
+          "jobText": "Testing for the new application."
+        },
+        {
+          "id": 11,
+          "jobText": "Involved in developing server pages using Servlets and JSP."
+        }
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "id": 1,
+      "skillName": "Sap Enhancements",
+      "skillValue": 75
+    },
+    {
+      "id": 2,
+      "skillName": "Sap Reports",
+      "skillValue": 75
+    },
+    {
+      "id": 3,
+      "skillName": "Sap Smartforms",
+      "skillValue": 75
+    },
+    {
+      "id": 4,
+      "skillName": "Sap Module Pools",
+      "skillValue": 75
+    },
+    {
+      "id": 5,
+      "skillName": "Fiori",
+      "skillValue": 75
+    },
+    {
+      "id": 6,
+      "skillName": "Java Script",
+      "skillValue": 75
+    },
+    {
+      "id": 7,
+      "skillName": "React",
+      "skillValue": 50
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "projectId": 1,
+      "projectName": "React Project 1",
+      "projectUrl": "http://localhost:3000/",
+      "projectImg": "https://miro.medium.com/max/1200/1*y6C4nSvy2Woe0m7bWEn4BA.png"
+    },
+    {
+      "id": 1,
+      "projectId": 2,
+      "projectName": "React Project 2",
+      "projectUrl": "http://localhost:3001/",
+      "projectImg": "https://miro.medium.com/max/2625/1*HSisLuifMO6KbLfPOKtLow.jpeg"
+    },
+    {
+      "id": 1,
+      "projectId": 3,
+      "projectName": "React Project 3",
+      "projectUrl": "",
+      "projectImg": "http://blog.addthiscdn.com/wp-content/uploads/2014/11/addthis-react-flux-javascript-scaling.png"
+    }
+  ]
+}
