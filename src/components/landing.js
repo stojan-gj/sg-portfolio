@@ -1,11 +1,11 @@
 import React, { Component } from "react";
 import { Grid, Cell } from "react-mdl";
-import data from './data';
+import data from "./data";
 
 class Landing extends Component {
   render() {
     return (
-      <div className='landing'>
+      <div className="landing">
         <Grid className="landing-grid">
           <Cell col={12}>
             <img
@@ -14,12 +14,12 @@ class Landing extends Component {
               className="landing-avatar"
             />
             <div className="landing-border">
-              <h2>React Developer</h2>
+              <h2>{data.person.workPossition}</h2>
               <hr />
-              <h4>HTML/CSS | JavaScript | React | SAP</h4>
+              <h4>{data.person.knowledge}</h4>
               <div className="landing-social-links">
                 <a
-                  href="https://www.linkedin.com/in/stojan-gjeorgiov-73a88764"
+                  href={data.person.linkedIn}
                   target="_blank"
                   rel="noopener noreferrer"
                 >
