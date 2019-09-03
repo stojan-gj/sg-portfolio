@@ -6,6 +6,8 @@
     "address": "Car Samoil 20 - Kocani",
     "phone": "+38978 830 644",
     "email": "stojan.gjeorgiov@gmail.com",
+    "workPossition": "SAP ABAP Developer",
+    "knowledge": "SAP | HTML/CSS | JavaScript | React (Basics)",
     "linkedIn": "https://www.linkedin.com/in/stojan-gjeorgiov-73a88764",
     "img": "https://media.licdn.com/dms/image/C4E03AQGAxp1ZOI2euA/profile-displayphoto-shrink_200_200/0?e=1571270400&v=beta&t=qyzHRidChY63L29REErShtSCcL9rCVAl1qrdsLI0Crg",
     "aboutMe": "I am a punctual and motivated individual who is able to work in a busy environment and produce high standards of work. I am an excellent team worker and am able to take instructions from all levels and build up good working relationships with all colleagues. I am flexible, reliable and possess excellent time keeping skills.",
@@ -143,23 +145,18 @@
     {
       "id": 1,
       "projectId": 1,
-      "projectName": "React Project 1",
-      "projectUrl": "http://localhost:3000/",
-      "projectImg": "https://miro.medium.com/max/1200/1*y6C4nSvy2Woe0m7bWEn4BA.png"
+      "projectName": "CV in React",
+      "projectUrl": "https://stojan-gj.github.io/sg-portfolio/",
+      "projectImg": "https://miro.medium.com/max/1200/1*y6C4nSvy2Woe0m7bWEn4BA.png",
+      "projectDesc": "This CV is created in react using React MDL"
     },
     {
       "id": 1,
       "projectId": 2,
-      "projectName": "React Project 2",
-      "projectUrl": "http://localhost:3001/",
-      "projectImg": "https://miro.medium.com/max/2625/1*HSisLuifMO6KbLfPOKtLow.jpeg"
-    },
-    {
-      "id": 1,
-      "projectId": 3,
-      "projectName": "React Project 3",
-      "projectUrl": "",
-      "projectImg": "http://blog.addthiscdn.com/wp-content/uploads/2014/11/addthis-react-flux-javascript-scaling.png"
+      "projectName": "Todo List",
+      "projectUrl": "https://stojan-gj.github.io/todo/",
+      "projectImg": "https://miro.medium.com/max/2625/1*HSisLuifMO6KbLfPOKtLow.jpeg",
+      "projectDesc": "Simple React project for Todo List"
     }
   ]
 }

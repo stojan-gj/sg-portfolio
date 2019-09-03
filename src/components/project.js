@@ -19,9 +19,7 @@ class Project extends Component {
           >
             {this.props.projectName}
           </CardTitle>
-          <CardText>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris
-            sagittis pellentesque lacus eleifend lacinia...
+          <CardText>{this.props.projectDesc}
           </CardText>
           <CardActions border>
             <Button

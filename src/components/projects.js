@@ -11,6 +11,7 @@ class Projects extends Component {
         projectName={p.projectName}
         projectUrl={p.projectUrl}
         projectImg={p.projectImg}
+        projectDesc={p.projectDesc}
       />
     ));
 
